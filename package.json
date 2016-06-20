@@ -1,0 +1,16 @@
+{
+  "name": "polygger",
+  "version": "1.0.0",
+  "description": "Multi language debugger bindings",
+  "main": "lib/index.js",
+  "author": {
+    "name": "Alberto Avila",
+    "email": "albertoavila@gmail.com"
+  },
+  "license": "UNLICENSE",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:albertein/polygger.git"
+  }
+
+}
