@@ -11,5 +11,14 @@
   "repository": {
     "type": "git",
     "url": "git@github.com:albertein/polygger.git"
+  },
+  "dependencies": {
+    "react": "^15.0.0",
+    "react-debounce-input": "^2.3.0",
+    "react-dom": "^15.0.0",
+    "express": "^4.14.0",
+    "jquery": "^3.0.0",
+    "webpack": "^1.13.1",
+    "left-pad": "^1.1.0"
   }
 }
